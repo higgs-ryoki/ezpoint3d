@@ -1,1 +1,1 @@
-# ezpoint
+# Point cloud viewer
